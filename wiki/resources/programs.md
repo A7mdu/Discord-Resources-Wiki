@@ -20,11 +20,11 @@ description: Discord programs like Moderation, Partner, HSE and Verification.
 > **Description:** As role models to all of the Discord, partnered servers are communities that both our new and veteran users can use as inspiration to create their own communities.   <br/>
 **Link:** [Discord Partner Program](https://dis.gd/partners)
 
-## Hypesquad Events
+## Hypesquad Events ( Closed )
 
 > **Description:** The place to find information and apply for the HypeSquad Events program.   <br/>
-**Link:** [HypeSquad Events](https://dis.gd/hypesquad)
-
+**Link:** [HypeSquad Events](https://dis.gd/hypesquad) ( The page
+ is permanently closed )
 ## Verification Program
 
 > **Description:** The place to find information and apply for the Verification program.   <br/>
